@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.json": "jsonc"
+  },
+  "github.copilot.chat.languageContext.inline.typescript.enabled": false,
+  "editor.experimental.preferTreeSitter.typescript": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "svelte.enable-ts-plugin": true,
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  }
+}
